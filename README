@@ -1,0 +1,5 @@
+Asymmetrik Business Card OCR by Jacqueline King
+
+1. Pull repository from Github onto platform or IDE that can run C++ code
+2. Run program. You should be prompted with a line asking you to read in the document title. 
+3. Input document title, and the code should run and display the desired information to you.
